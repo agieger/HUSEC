@@ -23,6 +23,8 @@ https://github.com/agieger/Week-8/blob/master/8-%20Blue%20SQL.gif
 
 Vulnerability #2: Session Hijacking/Fixation
 
+https://github.com/agieger/Week-8/blob/master/8-%20Blue%20Session%20Hijacking.gif
+
 
 ## Green
 
