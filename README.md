@@ -1,7 +1,7 @@
 
 # WEEK 8 - Pentesting Live Targets
 
-Time spent: **X** hours spent in total
+Time spent: 57 hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -21,22 +21,28 @@ Vulnerability #1: SQL Injection (SQLi)
 
 <img
 src= 'https://github.com/agieger/Week-8/blob/master/8-%20Blue%20SQL.gif'
-title='Video Walkthrough' width='' alt='Video Walkthrough' />
+title='Blue SQLI' width='' alt='Blue SQLI' />
 
 Vulnerability #2: Session Hijacking/Fixation
 
-https://github.com/agieger/Week-8/blob/master/8-%20Blue%20Session%20Hijacking.gif
+<img
+src= 'https://github.com/agieger/Week-8/blob/master/8-%20Blue%20Session%20Hijacking.gif'
+title= 'Blue SHF' width='' alt='Blue SHF' />
 
 
 ## Green
 
 Vulnerability #1: Username Enumeration
 
-https://github.com/agieger/Week-8/blob/master/8-%20Green%20User%20Enumeration%20Issue.gif
+<img 
+src= 'https://github.com/agieger/Week-8/blob/master/8-%20Green%20User%20Enumeration%20Issue.gif'
+title= 'Green UE' width='' alt='Green UE' />
 
 Vulnerability #2: Cross-Site Scripting (XSS)
 
-https://github.com/agieger/Week-8/blob/master/8-%20Green%20XSS.gif
+<img 
+src= 'https://github.com/agieger/Week-8/blob/master/8-%20Green%20XSS.gif'
+title= 'Green XSS' width='' alt='Green XSS' />
 
 
 
@@ -44,7 +50,9 @@ https://github.com/agieger/Week-8/blob/master/8-%20Green%20XSS.gif
 
 Vulnerability #1: Insecure Direct Object Reference (IDOR)
 
-https://github.com/agieger/Week-8/blob/master/8-%20Red%20IDOR.gif
+<img 
+src= 'https://github.com/agieger/Week-8/blob/master/8-%20Red%20IDOR.gif'
+title='Red IDOR' width='' alt='Red IDOR' />
 
 Vulnerability #2: Cross-Site Request Forgery (CSRF)
 
