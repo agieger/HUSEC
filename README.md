@@ -36,7 +36,7 @@ https://github.com/agieger/Week-8/blob/master/8-%20Green%20User%20Enumeration%20
 
 Vulnerability #2: Cross-Site Scripting (XSS)
 
-
+https://github.com/agieger/Week-8/blob/master/8-%20Green%20XSS.gif
 
 
 
