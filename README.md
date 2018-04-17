@@ -19,7 +19,9 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: SQL Injection (SQLi)
 
-https://github.com/agieger/Week-8/blob/master/8-%20Blue%20SQL.gif
+<img
+src= 'https://github.com/agieger/Week-8/blob/master/8-%20Blue%20SQL.gif'
+title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Vulnerability #2: Session Hijacking/Fixation
 
