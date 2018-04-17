@@ -32,6 +32,8 @@ https://github.com/agieger/Week-8/blob/master/8-%20Blue%20Session%20Hijacking.gi
 
 Vulnerability #1: Username Enumeration
 
+https://github.com/agieger/Week-8/blob/master/8-%20Green%20User%20Enumeration%20Issue.gif
+
 Vulnerability #2: Cross-Site Scripting (XSS)
 
 
