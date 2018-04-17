@@ -59,5 +59,5 @@ Vulnerability #2: Cross-Site Request Forgery (CSRF)
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+The CSFR vulnerability was by far the most difficult 
 
