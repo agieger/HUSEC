@@ -51,7 +51,7 @@ title= 'Green XSS' width='' alt='Green XSS' />
 Vulnerability #1: Insecure Direct Object Reference (IDOR)
 
 <img 
-src= 'https://github.com/agieger/Week-8/blob/master/8-%20CSRF.gif'
+src= 'https://github.com/agieger/Week-8/blob/master/8-%20Red%20IDOR.gif'
 title='Red IDOR' width='' alt='Red IDOR' />
 
 Vulnerability #2: Cross-Site Request Forgery (CSRF)
